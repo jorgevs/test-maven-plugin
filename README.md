@@ -1,6 +1,6 @@
 # test-maven-plugin
 
-This is a basic test of the creation of a Maven Plugin
+This is a basic test of a Maven Plugin creation
 
 
 ### Prerequisites
